@@ -36,4 +36,5 @@ Este repositório contém meu projeto final do curso **Unity Essentials**, desen
 
 ---
 Link  UnityPlay: https://play.unity.com/en/games/1d9d485b-95bb-4d15-a8b9-5d665cd607b6/my-unity-essentials
+obs : a senha   e 2004 
 
