@@ -1,4 +1,4 @@
-# 🎮 Unity Essentials - Projeto de Portfólio
+# 🎮 Unity Essentials 
 
 Este repositório contém meu projeto final do curso **Unity Essentials**, desenvolvido como parte do meu aprendizado em criação de jogos com a Unity. O projeto inclui cenas 3D e 2D, interatividade com scripts em C#, efeitos visuais e sonoros, além de publicação para WebGL.
 
